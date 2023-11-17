@@ -3,7 +3,7 @@
 <p> you can find me on: </p>
 <a href="https://www.instagram.com/youstilllooklikedynamite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Khawlaattou" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-  <img src="https://example.com/linkedin-icon.png" alt="LinkedIn" width="30" height="30">
+  <img src="https://icons8.com/icon/446/linkedin" alt="LinkedIn" width="30" height="30">
 </a>
   
 <!-- 
