@@ -2,6 +2,7 @@
 <h2>computer science student</h2>
 <p> you can find me on: </p>
 <a href="https://www.instagram.com/youstilllooklikedynamite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Khawlaattou" height="30" width="40" /></a>
+![LinkedIn Icon](https://icons8.com/icon/446/linkedin)
 
 
   
