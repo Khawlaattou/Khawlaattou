@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/your-profile" target="_blank">
   <img src="https://icons8.com/icon/446/linkedin" alt="LinkedIn" width="30" height="30">
 </a>
+
+![Uploading Patterns page 6.jpg…]()
+
   
 <!-- 
 **Khawlaattou/Khawlaattou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
