@@ -7,7 +7,9 @@
 <h3>- 📫 How to reach me **khawlaat03@gmail.com**</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/at-khawla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="at-khawla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/at-khawla-93b32329a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="at-khawla" height="30" width="40" /></a>
+<a href="https://discord.gg/khawlaat_34438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khawlaat_34438" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
