@@ -2,7 +2,7 @@
 <h3 align="center">CS student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khawlaattou&label=Profile%20views&color=0e75b6&style=flat" alt="khawlaattou" /> </p>
-<img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif"/>
+<img align="right" src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif"/>
 - 🌱 I’m currently learning **full stack web developement**
 
 - 📫 How to reach me **khawlaat03@gmail.com**
