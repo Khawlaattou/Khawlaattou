@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khawlaattou&label=Profile%20views&color=0e75b6&style=flat" alt="khawlaattou" /> </p>
 <img align="right" src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif"/>
-- 🌱 I’m currently learning **full stack web developement**
+<h5>- 🌱 I’m currently learning  full stack web developement</h5>
+
 
 - 📫 How to reach me **khawlaat03@gmail.com**
 
@@ -11,7 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/at-khawla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="at-khawla" height="30" width="40" /></a>
 <a href="https://instagram.com/youstilllooklikedynamite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youstilllooklikedynamite" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/at-khawla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="at-khawla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
