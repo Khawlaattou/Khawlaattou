@@ -1,8 +1,7 @@
 <h1 align="center">Welcome 👋, It's Khawla At</h1>
 <h3 align="center">CS student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khawlaattou&label=Profile%20views&color=0e75b6&style=flat" alt="khawlaattou" /> </p>
-https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Khawlaattou&label=Profile%20views&color=0e75b6&style=flat" alt="khawlaattou" /> </p>
 <img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif"/>
 - 🌱 I’m currently learning **full stack web developement**
 
