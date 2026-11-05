@@ -1,15 +1,10 @@
 <h1 align="center">Welcome 👋, It's Khawla At</h1>
-<h3 align="center">CS student</h3>
+<h3 align="center">anything in CS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khawlaattou&label=Profile%20views&color=0e75b6&style=flat" alt="khawlaattou" /> </p>
 <img align="right" src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif"/>
-<h3>-I’m currently learning  full stack web developement</h3>
 <h3>-You can reach me: **khawlaat03@gmail.com**</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/at-khawla-93b32329a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="at-khawla" height="30" width="40" /></a>
-<a href="https://discord.gg/khawlaat_34438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khawlaat_34438" height="30" width="40" /></a>
-</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
